@@ -1,0 +1,65 @@
+body
+{
+	background-color:#ddd;
+}
+.first
+{
+background-image: url(mkj.png);
+ 
+ background-repeat:no-repeat; 
+background-color: white;
+background-attachment: fixed;
+height: 1500px;
+width: 1000px;
+text-align: left;	
+border-radius:6px ;
+}
+
+/*ul
+{
+   list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+    width: 900px;
+    background-color:#f1f1f1;
+    background-position: center;
+    position: relative;
+border-radius:6px ;
+}
+ li 
+ {
+  display: inline;
+    padding: 8px 16px;
+   }
+   a
+{
+    text-decoration: none;
+   color: black;
+    }
+
+.enwan {
+
+	text-align: center;
+  color:blue;
+	font-weight: 1500;
+font-style: oblique;
+font-size: 
+  /*font-family: 'century Gothic';*/
+	/*margin: auto;
+	/*-webkit-text-stroke: 2px black;*/
+}*/
+/*.tarheb {
+font-family: 'century Gothic';
+
+color: blue;
+}
+
+
+footer
+{
+ 
+  width: 1000px;
+  height: 300px;
+  background-color: ;
+margin: 1000px 0px 0px 0px ;
+}
